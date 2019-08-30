@@ -9,8 +9,9 @@ h1{
     height: 50px;
     width: 300px;
     text-align: center;
-    margin: 0 auto;
+    margin-left: 20%;
     float: left;
+    margin-top: 0;
 }
 
 .info{
@@ -23,7 +24,7 @@ h1{
     left: 25pc;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
-    padding-right: 1pc; 
+    margin-right:20%; 
 }
 
 h2{
@@ -52,8 +53,8 @@ html{
 header{
     background: white;
     height: 50px;
-    border-left-width: 100pc;
-    border-right-width: 100pc;
+    border-color: white;
+    border-width: 0 100px; 
 }
 p{
     font-family: 'Roboto', sans-serif;
