@@ -1,0 +1,46 @@
+body {
+    background: lightgray;
+    margin: 0 auto;
+    width: 750px;
+}
+.header{
+    background: white;
+}
+h1{
+    width: 230px;
+    margin: 0 auto;
+    background:#4aaaa5;
+    box-sizing: 50px; 
+    color: white;
+    text-align: center;
+    float: left;
+}
+#info{
+    float: right;
+}
+.contact{
+    background: white;
+    width: 750px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+    
+}
+h2{
+    color: #4aaaa5;
+    margin: 25px;
+    padding-top:20px 
+}
+.text{
+    color: grey;
+    margin: 25px;
+
+}
+.btn{
+    box-sizing: border-box;
+    width: 25px;
+    height: 25px;
+    background: #4aaaa5;
+    color: white;
+    margin: 25px;
+    padding: 3px;
+}
