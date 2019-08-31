@@ -15,9 +15,18 @@ h1{
     text-align: center;
     float: left;
 }
-#info{
-    float: right;
-}
+#info{ 
+        color: grey;
+        height: 200px;
+        height: 40px;
+        word-spacing: 2pc;
+        position: static;
+        float: right;
+        left: 25pc;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 13px;
+        margin-right:0%; 
+}      
 .contact{
     background: white;
     width: 750px;
@@ -34,6 +43,19 @@ h2{
     color: grey;
     margin: 25px;
 
+}
+.text label{
+    width: 100%;
+    text-align: start;
+}
+.text input,.text textarea{
+    width: 100%;
+    font-size: 15px;
+}
+#Msg input,#Msg textarea{
+    width: 100%;
+    height: 150px;
+    text-align: start;
 }
 .btn{
     box-sizing: border-box;

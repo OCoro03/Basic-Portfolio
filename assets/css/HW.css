@@ -41,6 +41,9 @@ h2{
 img{
     float: left;
     padding: 1pc;
+    height: 300px;
+    width: 300px;
+    rotate: 180deg; 
 }
 
 .background{
